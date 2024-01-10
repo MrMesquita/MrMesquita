@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Desenvolvimento web, estou a procura de um estágio
+Olá, Me chamo marcelo e Sou Desenvolvedor Front end! Estou a procura de um estágio para que possa demonstrar minhas competências e habilidades
 
 
 ## 🌐 Socials:
