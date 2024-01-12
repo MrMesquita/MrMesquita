@@ -12,7 +12,7 @@ Olá, Me chamo marcelo e Sou Desenvolvedor Front end! Estou a procura de um est�
 ![](https://github-contributor-stats.vercel.app/api?username=MrMesquita&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MrMesquita&theme=nord&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=MrMesquita&theme=nord&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MrMesquita&theme=nord&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMesquita&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
