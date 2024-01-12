@@ -1,5 +1,7 @@
 # 💫 About Me:
-Olá, Me chamo marcelo e Sou Desenvolvedor Front end! Estou a procura de um estágio para que possa demonstrar minhas competências e habilidades<br>
+Olá, Me chamo Marcelo, sou um desenvolvedor front end! Estou a procura de um estágio para que possa demonstrar minhas competências e habilidades<br>
+
+Hi, my name is Marcelo, I'm a front end developer! I'm looking for an internship so I can demonstrate my skills and abilities
 
 
 ## 🌐 Socials:
