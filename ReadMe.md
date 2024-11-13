@@ -1,28 +1,111 @@
-# 💫 About Me:
+<div align="center">
 
-Hi, my name is Marcelo, I'm a front end developer! I'm looking for an internship so I can demonstrate my skills and abilities<br>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Marcelo%20Mesquita&fontAlign=50&fontSize=40&desc=Desenvolvedor%20Front-end&descAlignY=70&descAlign=50" />
 
+</div>
 
-Olá, Me chamo Marcelo, sou um desenvolvedor front end! Estou a procura de um estágio para que possa demonstrar minhas competências e habilidades<br>
+<br>
 
+</div>
 
+<p align="center">
+Sou Marcelo Mesquita, desenvolvedor front-end com foco em interfaces intuitivas e design responsivo. Atualmente, trabalho na <a href="https://lti.net.br/"><strong>LTI</strong></a>, uma empresa voltada para soluções tecnológicas inovadoras. Meu objetivo é desenvolver aplicações que aprimorem a experiência do usuário, aliando performance e acessibilidade.
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-g-mesquita/) 
+<br>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-### 🔝 Top Contributed Repository
-![](https://github-contributor-stats.vercel.app/api?username=MrMesquita&limit=5&theme=nord&combine_all_yearly_contributions=true)
+<div align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MrMesquita&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MrMesquita&theme=nord&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMesquita&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🌐 Conecte-se Comigo
 
+</div>
 
+<p align="center">
+  <a href="https://github.com/MrMesquita"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/marcelo-g-mesquita/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=MrMesquita&icon=2&color=1)](https://visitcount.itsvg.in)
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+## 🏆 Certificações e Cursos
+
+</div>
+
+- **Styled Components** – [OneByteCode](https://drive.google.com/file/d/1N8oykrXtvu7_xQcgZGyjYfXp5sOgLnGV/view?usp=sharing)  
+- **React** – [OneByteCode](https://drive.google.com/file/d/1EbbgiVbvX_T3smR1n_wJXP0-zWR-jfiq/view?usp=drive_link)  
+- **SASS** – [OneByteCode](https://drive.google.com/file/d/1xnJc_J6xMmwY0eSgJjz0waVQJwmsnDFu/view?usp=sharing)  
+- **Git & Github** – [OneByteCode](https://drive.google.com/file/d/17KSqRP6m28YEYT0GNC-PnEZDvYENid6Z/view?usp=sharing)
+- **JavaScript** – [OneByteCode](https://drive.google.com/file/d/1NoHmSuRbNKvauYDpWmGmCHeflpGXH9YZ/view?usp=sharing)
+- **CSS3** – [OneByteCode](https://drive.google.com/file/d/1TuRE4VdXD5uem9012aRuu1_B90Inzx1e/view?usp=drive_link)  
+- **HTML5** – [OneByteCode](https://drive.google.com/file/d/1MepBzgyYVr9EaBJ285XcH38ajfQVA8vF/view?usp=sharing)
+- **TypesScript** – [OneByteCode](https://drive.google.com/file/d/1HaCbBd599-NX1LUYz3HlR7m69lgal-NK/view?usp=drive_link)
+  
+<br>
+
+<div align="center">
+
+## 💼 Experiência Profissional
+
+</div>
+
+### LTI – Desenvolvedor Front-End
+- **Período**: 2024 – Presente
+- **Responsabilidades**:
+  - Desenvolvimento de interfaces de usuário com foco em responsividade e experiência do usuário.
+  - Implementação de melhorias de performance e acessibilidade.
+  - Colaboração com equipes de design e back-end para integração eficiente de novos recursos.
+    
+### Câmara municipal da vitória de santo antão - Secretário de gabinete 
+- **Período**: 2023 - 2024
+
+### Câmara municipal da vitória de santo antão - Estagiário ensino médio
+- **Período**: 2021 - 2022
+
+<br>
+
+<div align="center">
+
+## 🔥 Projetos Notáveis
+
+</div>
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrMesquita&repo=Project-bible&theme=tokyonight) </br>
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Exploit-Experts&repo=RickAndMorty-Spring-API&theme=tokyonight) </br>
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrMesquita&repo=Projeto-Educa&theme=tokyonight)
+
+<br>
+
+<div align="center">
+
+## 🛠️ Ferramentas e Ambientes de Desenvolvimento
+
+<img src="https://skill-icons-v2.vercel.app/api/icons?i=vscode,github,git,figma&theme=dark" alt="Ferramentas e Ambientes" /><br>
+</div>
+
+<br>
+
+<div align="center">
+
+## 💻 Principais Tecnologias
+
+<img src="https://skill-icons-v2.vercel.app/api/icons?i=html,css,sass,javascript,typescript&theme=dark" /><br>
+<img src="https://skill-icons-v2.vercel.app/api/icons?i=webpack,bootstrap,jquery,php,npm&theme=dark" />
+</div>
+
+<br>
+
+<div align="center">
+
+## 📊 Estatísticas do GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=MrMesquita&hide_border=true&theme=transparent" alt="Estatísticas do GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMesquita&layout=compact&theme=transparent&hide_border=true" alt="Linguagens Mais Usadas" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer">
+
+</div>
+
