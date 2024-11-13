@@ -67,18 +67,6 @@ Sou Marcelo Mesquita, desenvolvedor front-end com foco em interfaces intuitivas 
 
 <div align="center">
 
-## 🔥 Projetos Notáveis
-
-</div>
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrMesquita&repo=Project-bible&theme=tokyonight) </br>
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Exploit-Experts&repo=RickAndMorty-Spring-API&theme=tokyonight) </br>
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrMesquita&repo=Projeto-Educa&theme=tokyonight)
-
-<br>
-
-<div align="center">
-
 ## 🛠️ Ferramentas e Ambientes de Desenvolvimento
 
 <img src="https://skill-icons-v2.vercel.app/api/icons?i=vscode,github,git,figma&theme=dark" alt="Ferramentas e Ambientes" /><br>
