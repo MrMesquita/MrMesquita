@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-Sou Marcelo Mesquita, desenvolvedor front-end com foco em interfaces intuitivas e design responsivo. Atualmente, trabalho na <a href="https://lti.net.br/"><strong>LTI</strong></a>, uma empresa voltada para soluções tecnológicas inovadoras. Meu objetivo é desenvolver aplicações que aprimorem a experiência do usuário, aliando performance e acessibilidade.
+Sou Marcelo Mesquita, desenvolvedor web com foco em interfaces intuitivas e design responsivo. Atualmente, trabalho na <a href="https://lti.net.br/"><strong>LTI</strong></a>, uma empresa voltada para soluções tecnológicas inovadoras. Meu objetivo é desenvolver aplicações que aprimorem a experiência do usuário, aliando performance e acessibilidade.
 </p>
 
 <br>
@@ -69,7 +69,7 @@ Sou Marcelo Mesquita, desenvolvedor front-end com foco em interfaces intuitivas 
 
 ## 🛠️ Ferramentas e Ambientes de Desenvolvimento
 
-<img src="https://skill-icons-v2.vercel.app/api/icons?i=vscode,github,git,figma&theme=dark" alt="Ferramentas e Ambientes" /><br>
+<img src="https://skill-icons-v2.vercel.app/api/icons?i=vscode,github,git,figma,docker&theme=dark" alt="Ferramentas e Ambientes" /><br>
 </div>
 
 <br>
