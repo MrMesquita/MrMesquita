@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&fontColor=f9313b&text=Marcelo%20Mesquita&fontAlign=50&fontSize=40&desc=Desenvolvedor%20Front-end&descAlignY=70&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Marcelo%20Mesquita&fontAlign=50&fontSize=40&desc=Desenvolvedor%20Front-end&descAlignY=70&descAlign=50" />
 
 </div>
 
