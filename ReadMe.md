@@ -1,48 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Marcelo%20Mesquita&fontAlign=50&fontSize=40&desc=Desenvolvedor%20Front-end&descAlignY=70&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Marcelo%20Mesquita&fontAlign=50&fontSize=40&desc=Desenvolvedor%20Back-end&descAlignY=70&descAlign=50" />
 
 </div>
 
 <br>
-
-</div>
 
 <p align="center">
-Sou Marcelo Mesquita, desenvolvedor web com foco em interfaces intuitivas e design responsivo. Atualmente, trabalho na <a href="https://lti.net.br/"><strong>LTI</strong></a>, uma empresa voltada para soluções tecnológicas inovadoras. Meu objetivo é desenvolver aplicações que aprimorem a experiência do usuário, aliando performance e acessibilidade.
+Sou Marcelo Mesquita, desenvolvedor web com foco em arquitetura de software escalável e APIs eficientes. Atualmente, trabalho na <a href="https://lti.net.br/"><strong>LTI</strong></a>, uma empresa voltada para soluções tecnológicas inovadoras. Meu objetivo é desenvolver sistemas de alta performance, garantindo segurança, escalabilidade e integração eficiente entre serviços.
 </p>
 
-<br>
+---
 
 <div align="center">
 
 ## 🌐 Conecte-se Comigo
-
-</div>
 
 <p align="center">
   <a href="https://github.com/MrMesquita"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/marcelo-g-mesquita/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<br>
+</div>
+
+---
 
 <div align="center">
 
-## 🏆 Certificações e Cursos
+## 🖥️ Back-end
+
+<img src="https://skill-icons-v2.vercel.app/api/icons?i=php,laravel,nodejs,nestjs,express,java,spring,mysql,postgresql,redis&theme=dark" /><br>
+
+## 🎨 Front-end
+
+<img src="https://skill-icons-v2.vercel.app/api/icons?i=angular,react,typescript,sass,tailwindcss,vite&theme=dark" /><br>
+
+## 🚀 Deploy e Infraestrutura
+
+<img src="https://skill-icons-v2.vercel.app/api/icons?i=docker,kubernetes,nginx,linux,vim,vercel,githubactions&theme=dark" /><br>
+
+## 🛠️ Ferramentas de Desenvolvimento
+
+<img src="https://skill-icons-v2.vercel.app/api/icons?i=phpstorm,idea,vscode,github,bitbucket,git,jira,figma&theme=dark" /><br>
 
 </div>
 
-- **Styled Components** – [OneByteCode](https://drive.google.com/file/d/1N8oykrXtvu7_xQcgZGyjYfXp5sOgLnGV/view?usp=sharing)  
-- **React** – [OneByteCode](https://drive.google.com/file/d/1EbbgiVbvX_T3smR1n_wJXP0-zWR-jfiq/view?usp=drive_link)  
-- **SASS** – [OneByteCode](https://drive.google.com/file/d/1xnJc_J6xMmwY0eSgJjz0waVQJwmsnDFu/view?usp=sharing)  
-- **Git & Github** – [OneByteCode](https://drive.google.com/file/d/17KSqRP6m28YEYT0GNC-PnEZDvYENid6Z/view?usp=sharing)
-- **JavaScript** – [OneByteCode](https://drive.google.com/file/d/1NoHmSuRbNKvauYDpWmGmCHeflpGXH9YZ/view?usp=sharing)
-- **CSS3** – [OneByteCode](https://drive.google.com/file/d/1TuRE4VdXD5uem9012aRuu1_B90Inzx1e/view?usp=drive_link)  
-- **HTML5** – [OneByteCode](https://drive.google.com/file/d/1MepBzgyYVr9EaBJ285XcH38ajfQVA8vF/view?usp=sharing)
-- **TypesScript** – [OneByteCode](https://drive.google.com/file/d/1HaCbBd599-NX1LUYz3HlR7m69lgal-NK/view?usp=drive_link)
-  
-<br>
+---
 
 <div align="center">
 
@@ -50,50 +53,58 @@ Sou Marcelo Mesquita, desenvolvedor web com foco em interfaces intuitivas e desi
 
 </div>
 
-### LTI – Desenvolvedor Front-End
-- **Período**: 2024 – Presente
-- **Responsabilidades**:
-  - Desenvolvimento de interfaces de usuário com foco em responsividade e experiência do usuário.
-  - Implementação de melhorias de performance e acessibilidade.
-  - Colaboração com equipes de design e back-end para integração eficiente de novos recursos.
-    
-### Câmara municipal da vitória de santo antão - Secretário de gabinete 
-- **Período**: 2023 - 2024
+### 🏢 LTI – Desenvolvedor Júnior  
+📅 **Período**: 2025 – Presente  
 
-### Câmara municipal da vitória de santo antão - Estagiário ensino médio
-- **Período**: 2021 - 2022
+Atualmente, sou responsável pelo desenvolvimento e manutenção de aplicações web, garantindo escalabilidade, segurança e integração eficiente entre sistemas.  
 
-<br>
+#### **Principais responsabilidades:**  
+✔️ Desenvolvimento de APIs RESTful para comunicação entre serviços.  
+✔️ Integração com APIs REST e SOAP de terceiros.  
+✔️ Otimização de queries SQL e melhoria no desempenho do banco de dados.  
+✔️ Participação em code reviews e definição de boas práticas no desenvolvimento.  
+✔️ Gerenciamento e orquestração de containers Docker em ambientes produtivos. 
+
+---
+
+### 🏢 LTI – Estágio em Desenvolvimento Web  
+📅 **Período**: 2024 – 2025  
+
+Atuei na manutenção e otimização de aplicações web, participando do desenvolvimento de novas funcionalidades e aprimoramento da estrutura back-end.  
+
+#### **Principais contribuições:**  
+✔️ Identificação e correção de bugs para garantir a estabilidade das aplicações.  
+✔️ Refatoração de código e melhoria da legibilidade e manutenção do projeto.  
+✔️ Suporte na integração de APIs e otimização de consultas ao banco de dados.  
+✔️ Contribuição na documentação e padronização do código.  
+
+---
 
 <div align="center">
 
-## 🛠️ Ferramentas e Ambientes de Desenvolvimento
+## 🏆 Certificações e Cursos
 
-<img src="https://skill-icons-v2.vercel.app/api/icons?i=vscode,github,git,figma,docker&theme=dark" alt="Ferramentas e Ambientes" /><br>
 </div>
 
-<br>
+✔️ **Laravel e Desenvolvimento PHP** – Udemy  
+✔️ **Spring Boot** – Udemy  
+✔️ **MySQL e PostgreSQL** – Udemy  
+✔️ **Docker e Kubernetes** – OneByteCode  
+✔️ **Arquitetura de Software e Design Patterns** – Rocketseat  
 
-<div align="center">
+_Todas as certificações foram obtidas em plataformas reconhecidas como Udemy e Rocketseat._  
 
-## 💻 Principais Tecnologias
-
-<img src="https://skill-icons-v2.vercel.app/api/icons?i=html,css,sass,javascript,typescript&theme=dark" /><br>
-<img src="https://skill-icons-v2.vercel.app/api/icons?i=webpack,bootstrap,jquery,php,npm&theme=dark" />
-</div>
-
-<br>
+---
 
 <div align="center">
 
 ## 📊 Estatísticas do GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=MrMesquita&hide_border=true&theme=transparent" alt="Estatísticas do GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMesquita&layout=compact&theme=transparent&hide_border=true" alt="Linguagens Mais Usadas" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrMesquita&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMesquita&layout=compact&theme=transparent&hide_border=true" />
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer">
 
 </div>
-
