@@ -53,7 +53,7 @@ Sou Marcelo Mesquita, desenvolvedor back-end com foco em arquitetura de software
 
 </div>
 
-### 🏢 LTI – Desenvolvedor Júnior  
+### 🏢 Weebet – Desenvolvedor full stack  
 📅 **Período**: 2025 – Presente  
 
 Atualmente, sou responsável pelo desenvolvimento e manutenção de aplicações web, garantindo escalabilidade, segurança e integração eficiente entre sistemas.  
@@ -67,7 +67,7 @@ Atualmente, sou responsável pelo desenvolvimento e manutenção de aplicações
 
 ---
 
-### 🏢 LTI – Estágio em Desenvolvimento Web  
+### 🏢 Weebet – Estágio em Desenvolvimento Web  
 📅 **Período**: 2024 – 2025  
 
 Atuei na manutenção e otimização de aplicações web, participando do desenvolvimento de novas funcionalidades e aprimoramento da estrutura back-end.  
@@ -91,8 +91,6 @@ Atuei na manutenção e otimização de aplicações web, participando do desenv
 ✔️ **MySQL e PostgreSQL** – Udemy  
 ✔️ **Docker e Kubernetes** – OneByteCode  
 ✔️ **Arquitetura de Software e Design Patterns** – Rocketseat  
-
-_Todas as certificações foram obtidas em plataformas reconhecidas como Udemy e Rocketseat._  
 
 ---
 
