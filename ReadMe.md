@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-Sou Marcelo Mesquita, desenvolvedor back-end com foco em arquitetura de software escalável e APIs eficientes. Atualmente, trabalho no <a href="https://wee.bet"><strong>Weebet</strong></a>, uma empresa voltada para soluções tecnológicas inovadoras. Meu objetivo é desenvolver sistemas de alta performance, garantindo segurança, escalabilidade e integração eficiente entre serviços.
+Sou Marcelo Mesquita, desenvolvedor back-end com foco em arquitetura de software escalável e APIs eficientes. Atualmente, trabalho no <a href="https://wee.bet"><strong>Weebet</strong></a>, uma empresa voltada para um sistema de igaming voltado ao mundo das apostas esportivas e de cassino. Meu objetivo é desenvolver sistemas de alta performance, garantindo segurança, escalabilidade e integração eficiente entre serviços.
 </p>
 
 ---
